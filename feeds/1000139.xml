@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <description></description>
+    <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000139.xml</link>
+    <atom:link href="https://r7kamura.github.io/feeds/1000139" rel="self"/>
+    <title>一億年ボタンを連打した俺は、気付いたら最強になっていた ～落第剣士の学院無双～</title>
+    <lastBuildDate>Thu, 05 Nov 2020 20:58:41 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第７話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000139/episode/4705/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000139/episode/4705/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第６話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000139/episode/4704/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000139/episode/4704/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第６話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000139/episode/4650/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000139/episode/4650/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第２話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000139/episode/4378/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000139/episode/4378/</guid>
+    </item>
+    
+  </channel>
+</rss>

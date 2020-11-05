@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <description></description>
+    <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000144.xml</link>
+    <atom:link href="https://r7kamura.github.io/feeds/1000144" rel="self"/>
+    <title>君は死ねない灰かぶりの魔女</title>
+    <lastBuildDate>Thu, 05 Nov 2020 20:58:44 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第一章 廃城の魔女　第二話ー②]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000144/episode/4652/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000144/episode/4652/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第一章 廃城の魔女　第二話ー①]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000144/episode/4627/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000144/episode/4627/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第一章 廃城の魔女　第一話ー④]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000144/episode/4601/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000144/episode/4601/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第一章 廃城の魔女　第一話ー③]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000144/episode/4579/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000144/episode/4579/</guid>
+    </item>
+    
+  </channel>
+</rss>

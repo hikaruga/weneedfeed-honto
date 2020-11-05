@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <description></description>
+    <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000124.xml</link>
+    <atom:link href="https://r7kamura.github.io/feeds/1000124" rel="self"/>
+    <title>帰ってください！ 阿久津さん</title>
+    <lastBuildDate>Thu, 05 Nov 2020 20:58:36 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第５２話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000124/episode/4716/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000124/episode/4716/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第５１話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000124/episode/4659/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000124/episode/4659/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第５０話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000124/episode/4658/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000124/episode/4658/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[番外編]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000124/episode/4424/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000124/episode/4424/</guid>
+    </item>
+    
+  </channel>
+</rss>

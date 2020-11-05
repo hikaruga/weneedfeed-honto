@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <description></description>
+    <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000129.xml</link>
+    <atom:link href="https://r7kamura.github.io/feeds/1000129" rel="self"/>
+    <title>賢者の孫SS</title>
+    <lastBuildDate>Thu, 05 Nov 2020 20:58:38 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第２２話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000129/episode/4740/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[シンプルデート①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000129/episode/4740/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第２１話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000129/episode/4674/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[スパルタ？ 甘々？]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000129/episode/4674/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第２０話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000129/episode/4673/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[手料理への憧れ]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000129/episode/4673/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第１９話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000129/episode/4608/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[ゆらめくもの]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000129/episode/4608/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第１８話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000129/episode/4547/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[聖なる日]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000129/episode/4547/</guid>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <description></description>
+    <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000125.xml</link>
+    <atom:link href="https://r7kamura.github.io/feeds/1000125" rel="self"/>
+    <title>針子の乙女</title>
+    <lastBuildDate>Thu, 05 Nov 2020 20:58:37 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第６話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/4667/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[それを“聖獣”という②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/4667/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第６話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/4610/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[それを“聖獣”という①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/4610/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第３話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/4217/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[見ていただきたいものがあります②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/4217/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第３話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/4144/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[見ていただきたいものがあります①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/4144/</guid>
+    </item>
+    
+  </channel>
+</rss>

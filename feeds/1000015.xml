@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <description></description>
+    <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000015.xml</link>
+    <atom:link href="https://r7kamura.github.io/feeds/1000015" rel="self"/>
+    <title>賢者の孫</title>
+    <lastBuildDate>Thu, 05 Nov 2020 20:58:30 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第５４話-３]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000015/episode/4757/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000015/episode/4757/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第５４話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000015/episode/4719/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000015/episode/4719/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第５４話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000015/episode/4646/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000015/episode/4646/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第５３話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000015/episode/4644/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000015/episode/4644/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第５３話-1]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000015/episode/4587/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000015/episode/4587/</guid>
+    </item>
+    
+  </channel>
+</rss>

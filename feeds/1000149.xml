@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <description></description>
+    <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000149.xml</link>
+    <atom:link href="https://r7kamura.github.io/feeds/1000149" rel="self"/>
+    <title>マリー様をわからせたい！</title>
+    <lastBuildDate>Thu, 05 Nov 2020 20:58:47 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第２話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000149/episode/4771/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[食事のマナーをわからせたい！]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000149/episode/4771/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第１話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000149/episode/4765/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <content:encoded><![CDATA[イイネ対決でわからせたい！]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000149/episode/4765/</guid>
+    </item>
+    
+  </channel>
+</rss>
