@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[黄昏メアレス -魔法使いと黒猫のウィズ Chronicle-]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000143.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000143.xml" rel="self"/>
-    <title>黄昏メアレス -魔法使いと黒猫のウィズ Chronicle-</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:33:00 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on 黄昏メアレス -魔法使いと黒猫のウィズ Chronicle-]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:16 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[４-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000143/episode/4759/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[Chapter.２夢見ざる者たち]]></description>
       <content:encoded><![CDATA[Chapter.２夢見ざる者たち]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000143/episode/4759/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[４-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000143/episode/4708/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[Chapter.２夢見ざる者たち]]></description>
       <content:encoded><![CDATA[Chapter.２夢見ざる者たち]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000143/episode/4708/</guid>
     </item>
@@ -29,6 +31,7 @@
       <title><![CDATA[３-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000143/episode/4643/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[Chapter.１夢と現実の狭間の都市]]></description>
       <content:encoded><![CDATA[Chapter.１夢と現実の狭間の都市]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000143/episode/4643/</guid>
     </item>
@@ -37,6 +40,7 @@
       <title><![CDATA[３-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000143/episode/4568/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[Chapter.１夢と現実の狭間の都市]]></description>
       <content:encoded><![CDATA[Chapter.１夢と現実の狭間の都市]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000143/episode/4568/</guid>
     </item>
@@ -45,6 +49,7 @@
       <title><![CDATA[２-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000143/episode/4517/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[Chapter.１夢と現実の狭間の都市]]></description>
       <content:encoded><![CDATA[Chapter.１夢と現実の狭間の都市]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000143/episode/4517/</guid>
     </item>

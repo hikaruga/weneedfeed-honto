@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[特殊性癖教室へようこそ]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000107.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000107.xml" rel="self"/>
-    <title>特殊性癖教室へようこそ</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:32:58 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on 特殊性癖教室へようこそ]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:11 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[９限目-３]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000107/episode/4756/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[ヤツに反旗を翻せ！③]]></description>
       <content:encoded><![CDATA[ヤツに反旗を翻せ！③]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000107/episode/4756/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[９限目-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000107/episode/4685/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[ヤツに反旗を翻せ！②]]></description>
       <content:encoded><![CDATA[ヤツに反旗を翻せ！②]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000107/episode/4685/</guid>
     </item>
@@ -29,6 +31,7 @@
       <title><![CDATA[９限目-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000107/episode/4366/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[ヤツに反旗を翻せ！①]]></description>
       <content:encoded><![CDATA[ヤツに反旗を翻せ！①]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000107/episode/4366/</guid>
     </item>
@@ -37,6 +40,7 @@
       <title><![CDATA[８限目-３]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000107/episode/4365/</link>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[HSGRの暴走を止めろ！③]]></description>
       <content:encoded><![CDATA[HSGRの暴走を止めろ！③]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000107/episode/4365/</guid>
     </item>
@@ -45,6 +49,7 @@
       <title><![CDATA[８限目-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000107/episode/4263/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[HSGRの暴走を止めろ！②]]></description>
       <content:encoded><![CDATA[HSGRの暴走を止めろ！②]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000107/episode/4263/</guid>
     </item>

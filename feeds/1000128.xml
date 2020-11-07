@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[悪役令嬢？ いいえ、極悪令嬢ですわ]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000128.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000128.xml" rel="self"/>
-    <title>悪役令嬢？ いいえ、極悪令嬢ですわ</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:32:59 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on 悪役令嬢？ いいえ、極悪令嬢ですわ]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:12 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第１２話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000128/episode/4724/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000128/episode/4724/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[第１２話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000128/episode/4678/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000128/episode/4678/</guid>
     </item>
@@ -29,6 +31,7 @@
       <title><![CDATA[第１１話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000128/episode/4677/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000128/episode/4677/</guid>
     </item>
@@ -37,6 +40,7 @@
       <title><![CDATA[第１１話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000128/episode/4640/</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000128/episode/4640/</guid>
     </item>
@@ -45,6 +49,7 @@
       <title><![CDATA[第１０話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000128/episode/4611/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000128/episode/4611/</guid>
     </item>

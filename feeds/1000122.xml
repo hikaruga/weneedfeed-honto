@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[賢者の孫SP]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000122.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000122.xml" rel="self"/>
-    <title>賢者の孫SP</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:32:59 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on 賢者の孫SP]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:11 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第１４話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000122/episode/4751/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000122/episode/4751/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[第４話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000122/episode/3977/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000122/episode/3977/</guid>
     </item>
@@ -29,6 +31,7 @@
       <title><![CDATA[第３話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000122/episode/3883/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000122/episode/3883/</guid>
     </item>

@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[ねこへん ～ねこと編集～]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000148.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000148.xml" rel="self"/>
-    <title>ねこへん ～ねこと編集～</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:33:00 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on ねこへん ～ねこと編集～]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:17 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第２話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000148/episode/4762/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000148/episode/4762/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[第１話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000148/episode/4760/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000148/episode/4760/</guid>
     </item>

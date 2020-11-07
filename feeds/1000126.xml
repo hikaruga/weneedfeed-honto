@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[ゼロスキルの料理番]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000126.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000126.xml" rel="self"/>
-    <title>ゼロスキルの料理番</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:32:59 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on ゼロスキルの料理番]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:12 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[１２品目-３]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000126/episode/4715/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[わがまま王女と石焼き麦酒芋③]]></description>
       <content:encoded><![CDATA[わがまま王女と石焼き麦酒芋③]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000126/episode/4715/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[１２品目-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000126/episode/4714/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[わがまま王女と石焼き麦酒芋②]]></description>
       <content:encoded><![CDATA[わがまま王女と石焼き麦酒芋②]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000126/episode/4714/</guid>
     </item>
@@ -29,6 +31,7 @@
       <title><![CDATA[１２品目-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000126/episode/4693/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[わがまま王女と石焼き麦酒芋①]]></description>
       <content:encoded><![CDATA[わがまま王女と石焼き麦酒芋①]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000126/episode/4693/</guid>
     </item>
@@ -37,6 +40,7 @@
       <title><![CDATA[１１品目-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000126/episode/4636/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[フロストベイルと例の飴のかき氷②]]></description>
       <content:encoded><![CDATA[フロストベイルと例の飴のかき氷②]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000126/episode/4636/</guid>
     </item>
@@ -45,6 +49,7 @@
       <title><![CDATA[１１品目-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000126/episode/4570/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[フロストベイルと例の飴のかき氷①]]></description>
       <content:encoded><![CDATA[フロストベイルと例の飴のかき氷①]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000126/episode/4570/</guid>
     </item>

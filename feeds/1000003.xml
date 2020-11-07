@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[五十嵐くんと中原くん]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000003.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000003.xml" rel="self"/>
-    <title>五十嵐くんと中原くん</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:32:53 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on 五十嵐くんと中原くん]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:01 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第３０話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000003/episode/4761/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000003/episode/4761/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[第２９話-３]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000003/episode/2451/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000003/episode/2451/</guid>
     </item>
@@ -29,6 +31,7 @@
       <title><![CDATA[第２９話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000003/episode/2378/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000003/episode/2378/</guid>
     </item>
@@ -37,6 +40,7 @@
       <title><![CDATA[第２９話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000003/episode/2315/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000003/episode/2315/</guid>
     </item>
@@ -45,6 +49,7 @@
       <title><![CDATA[第２８話-３]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000003/episode/2259/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000003/episode/2259/</guid>
     </item>

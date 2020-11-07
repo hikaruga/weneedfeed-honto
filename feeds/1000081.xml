@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[そらのおとしもの【リバイバル連載】]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000081.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000081.xml" rel="self"/>
-    <title>そらのおとしもの【リバイバル連載】</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:32:56 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on そらのおとしもの【リバイバル連載】]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:08 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[#74-2]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000081/episode/3799/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[虚無!!②　【公開期限：2020年11月18日（水）まで】]]></description>
       <content:encoded><![CDATA[虚無!!②　【公開期限：2020年11月18日（水）まで】]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000081/episode/3799/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[#74-1]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000081/episode/3798/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[虚無!!①　【公開期限：2020年11月11日（水）まで】]]></description>
       <content:encoded><![CDATA[虚無!!①　【公開期限：2020年11月11日（水）まで】]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000081/episode/3798/</guid>
     </item>

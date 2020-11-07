@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[文豪ストレイドッグス DEAD APPLE]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000082.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000082.xml" rel="self"/>
-    <title>文豪ストレイドッグス DEAD APPLE</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:32:57 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on 文豪ストレイドッグス DEAD APPLE]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:09 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第１１話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000082/episode/4503/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000082/episode/4503/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[第１０話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000082/episode/4264/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000082/episode/4264/</guid>
     </item>
@@ -29,6 +31,7 @@
       <title><![CDATA[第１０話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000082/episode/4249/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000082/episode/4249/</guid>
     </item>
@@ -37,6 +40,7 @@
       <title><![CDATA[第９話-３]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000082/episode/4191/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000082/episode/4191/</guid>
     </item>
@@ -45,6 +49,7 @@
       <title><![CDATA[第９話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000082/episode/3997/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000082/episode/3997/</guid>
     </item>

@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[私の拳をうけとめて！]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000075.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000075.xml" rel="self"/>
-    <title>私の拳をうけとめて！</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:32:56 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on 私の拳をうけとめて！]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:07 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第２０話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000075/episode/4711/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000075/episode/4711/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[第２０話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000075/episode/4689/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000075/episode/4689/</guid>
     </item>
@@ -29,6 +31,7 @@
       <title><![CDATA[第１９話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000075/episode/4603/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000075/episode/4603/</guid>
     </item>
@@ -37,6 +40,7 @@
       <title><![CDATA[第１９話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000075/episode/4592/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000075/episode/4592/</guid>
     </item>
@@ -45,6 +49,7 @@
       <title><![CDATA[第１８話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000075/episode/4488/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000075/episode/4488/</guid>
     </item>

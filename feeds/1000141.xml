@@ -3,16 +3,17 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <description></description>
+    <title><![CDATA[野球場でいただきます]]></title>
     <link>https://r7kamura.github.io/feeds_web_ace/feeds/1000141.xml</link>
     <atom:link href="https://r7kamura.github.io/feeds_web_ace/feeds/1000141.xml" rel="self"/>
-    <title>野球場でいただきます</title>
-    <lastBuildDate>Sat, 07 Nov 2020 18:33:00 +0000</lastBuildDate>
+    <description><![CDATA[Recent content on 野球場でいただきます]]></description>
+    <lastBuildDate>Sat, 07 Nov 2020 20:43:16 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第６話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4681/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000141/episode/4681/</guid>
     </item>
@@ -21,6 +22,7 @@
       <title><![CDATA[第５話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4582/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000141/episode/4582/</guid>
     </item>
@@ -29,6 +31,7 @@
       <title><![CDATA[第４話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4526/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000141/episode/4526/</guid>
     </item>
@@ -37,6 +40,7 @@
       <title><![CDATA[第３話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4501/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000141/episode/4501/</guid>
     </item>
@@ -45,6 +49,7 @@
       <title><![CDATA[第２話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4446/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000141/episode/4446/</guid>
     </item>
