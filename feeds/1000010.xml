@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[衛宮さんちの今日のごはん]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000010.xml" rel="self"/>
+    <description><![CDATA[Recent content on 衛宮さんちの今日のごはん]]></description>
+    <lastBuildDate>Sun, 15 Nov 2020 03:24:12 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第４４話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/4698/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[秋のかぼちゃづくし]]></description>
+      <content:encoded><![CDATA[秋のかぼちゃづくし]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/4698/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第４３話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/4668/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[さくさくホットサンド]]></description>
+      <content:encoded><![CDATA[さくさくホットサンド]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/4668/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[特別編-９]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/4564/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[喫茶店のナポリタン]]></description>
+      <content:encoded><![CDATA[喫茶店のナポリタン]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/4564/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第４２話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/4469/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[豪華！ 鮭のちゃんちゃん焼き]]></description>
+      <content:encoded><![CDATA[豪華！ 鮭のちゃんちゃん焼き]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/4469/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第４１話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000010/episode/4467/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[ゴロッとほっくりコロッケ]]></description>
+      <content:encoded><![CDATA[ゴロッとほっくりコロッケ]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000010/episode/4467/</guid>
+    </item>
+    
+  </channel>
+</rss>

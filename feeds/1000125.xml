@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[針子の乙女]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000125.xml" rel="self"/>
+    <description><![CDATA[Recent content on 針子の乙女]]></description>
+    <lastBuildDate>Sun, 15 Nov 2020 03:24:18 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第７話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/4754/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[守れるものがあるのなら②]]></description>
+      <content:encoded><![CDATA[守れるものがあるのなら②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/4754/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第７話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/4741/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[守れるものがあるのなら①]]></description>
+      <content:encoded><![CDATA[守れるものがあるのなら①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/4741/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第６話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/4667/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[それを“聖獣”という②]]></description>
+      <content:encoded><![CDATA[それを“聖獣”という②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/4667/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[第６話-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000125/episode/4610/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <description><![CDATA[それを“聖獣”という①]]></description>
+      <content:encoded><![CDATA[それを“聖獣”という①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000125/episode/4610/</guid>
+    </item>
+    
+  </channel>
+</rss>
