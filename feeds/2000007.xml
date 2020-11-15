@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[MELTY BLOOD]]></title>
+    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000007.xml" rel="self"/>
+    <description><![CDATA[Recent content on MELTY BLOOD]]></description>
+    <lastBuildDate>Sun, 15 Nov 2020 03:53:41 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[ACT.27-2]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000007/episode/1031/</link>
+      
+        <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000007/episode/1031/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[ACT.27-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000007/episode/1029/</link>
+      
+        <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000007/episode/1029/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[ACT.26]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000007/episode/877/</link>
+      
+        <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000007/episode/877/</guid>
+    </item>
+    
+  </channel>
+</rss>
