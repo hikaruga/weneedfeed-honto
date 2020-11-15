@@ -7,12 +7,14 @@
     <link>https://r7kamura.github.io/weneedfeed-webace</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000122.xml" rel="self"/>
     <description><![CDATA[Recent content on 賢者の孫SP]]></description>
-    <lastBuildDate>Sun, 15 Nov 2020 03:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 03:33:41 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第１４話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000122/episode/4751/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+        <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000122/episode/4751/</guid>
@@ -21,7 +23,9 @@
     <item>
       <title><![CDATA[第４話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000122/episode/3977/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+        <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000122/episode/3977/</guid>
@@ -30,7 +34,9 @@
     <item>
       <title><![CDATA[第３話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000122/episode/3883/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+        <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000122/episode/3883/</guid>
