@@ -7,7 +7,18 @@
     <link>https://r7kamura.github.io/weneedfeed-webace</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000004.xml" rel="self"/>
     <description><![CDATA[Recent content on フェイト／エクストラ CCC FoxTail]]></description>
-    <lastBuildDate>Sun, 15 Nov 2020 15:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 08:23:50 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Chapter26-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000004/episode/1000/</link>
+      
+        <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1000/</guid>
+    </item>
     
     <item>
       <title><![CDATA[Chapter25-3]]></title>
@@ -51,17 +62,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/766/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[Chapter24-2]]></title>
-      <link>https://web-ace.jp/tmca/contents/2000004/episode/765/</link>
-      
-        <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/765/</guid>
     </item>
     
   </channel>

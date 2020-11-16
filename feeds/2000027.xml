@@ -7,7 +7,18 @@
     <link>https://r7kamura.github.io/weneedfeed-webace</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000027.xml" rel="self"/>
     <description><![CDATA[Recent content on Fate/Grand Order 藤丸立香はわからない]]></description>
-    <lastBuildDate>Sun, 15 Nov 2020 15:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 08:23:54 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第6話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000027/episode/948/</link>
+      
+        <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000027/episode/948/</guid>
+    </item>
     
     <item>
       <title><![CDATA[第5話]]></title>
@@ -51,17 +62,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000027/episode/698/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第1話]]></title>
-      <link>https://web-ace.jp/tmca/contents/2000027/episode/695/</link>
-      
-        <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000027/episode/695/</guid>
     </item>
     
   </channel>
