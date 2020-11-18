@@ -7,7 +7,18 @@
     <link>https://r7kamura.github.io/weneedfeed-webace</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000046.xml" rel="self"/>
     <description><![CDATA[Recent content on 異世界建国記]]></description>
-    <lastBuildDate>Tue, 17 Nov 2020 15:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 15:06:52 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第４５話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000046/episode/4814/</link>
+      
+        <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000046/episode/4814/</guid>
+    </item>
     
     <item>
       <title><![CDATA[第４４話]]></title>
@@ -51,17 +62,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000046/episode/4633/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第４２話-１]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000046/episode/4629/</link>
-      
-        <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000046/episode/4629/</guid>
     </item>
     
   </channel>

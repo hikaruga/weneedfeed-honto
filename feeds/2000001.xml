@@ -7,7 +7,18 @@
     <link>https://r7kamura.github.io/weneedfeed-webace</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000001.xml" rel="self"/>
     <description><![CDATA[Recent content on Fate/Apocrypha]]></description>
-    <lastBuildDate>Tue, 17 Nov 2020 15:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 15:07:09 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Episode:24-3]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000001/episode/898/</link>
+      
+        <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000001/episode/898/</guid>
+    </item>
     
     <item>
       <title><![CDATA[Episode:24-2]]></title>
@@ -29,17 +40,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000001/episode/896/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[Episode:23-3]]></title>
-      <link>https://web-ace.jp/tmca/contents/2000001/episode/895/</link>
-      
-        <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000001/episode/895/</guid>
     </item>
     
   </channel>
