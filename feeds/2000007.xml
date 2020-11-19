@@ -7,7 +7,18 @@
     <link>https://r7kamura.github.io/weneedfeed-webace</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000007.xml" rel="self"/>
     <description><![CDATA[Recent content on MELTY BLOOD]]></description>
-    <lastBuildDate>Wed, 18 Nov 2020 15:07:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2020 15:08:35 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[ACT.28]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000007/episode/1032/</link>
+      
+        <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000007/episode/1032/</guid>
+    </item>
     
     <item>
       <title><![CDATA[ACT.27-2]]></title>
@@ -29,17 +40,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000007/episode/1029/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[ACT.26]]></title>
-      <link>https://web-ace.jp/tmca/contents/2000007/episode/877/</link>
-      
-        <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000007/episode/877/</guid>
     </item>
     
   </channel>

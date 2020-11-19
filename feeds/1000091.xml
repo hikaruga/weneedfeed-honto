@@ -7,7 +7,18 @@
     <link>https://r7kamura.github.io/weneedfeed-webace</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000091.xml" rel="self"/>
     <description><![CDATA[Recent content on 勇者、辞めます]]></description>
-    <lastBuildDate>Wed, 18 Nov 2020 15:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2020 15:08:25 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第２６話-２]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000091/episode/4777/</link>
+      
+        <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000091/episode/4777/</guid>
+    </item>
     
     <item>
       <title><![CDATA[第２６話-１]]></title>
@@ -51,17 +62,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000091/episode/4665/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第２４話-１]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000091/episode/4630/</link>
-      
-        <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000091/episode/4630/</guid>
     </item>
     
   </channel>
