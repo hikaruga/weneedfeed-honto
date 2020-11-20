@@ -7,7 +7,18 @@
     <link>https://r7kamura.github.io/weneedfeed-webace</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000126.xml" rel="self"/>
     <description><![CDATA[Recent content on ゼロスキルの料理番]]></description>
-    <lastBuildDate>Thu, 19 Nov 2020 15:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2020 15:07:19 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[１３品目-１]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000126/episode/4790/</link>
+      
+        <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000126/episode/4790/</guid>
+    </item>
     
     <item>
       <title><![CDATA[１２品目-３]]></title>
@@ -51,17 +62,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000126/episode/4636/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[１１品目-１]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000126/episode/4570/</link>
-      
-        <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000126/episode/4570/</guid>
     </item>
     
   </channel>
