@@ -7,16 +7,23 @@
     <link>https://r7kamura.github.io/weneedfeed-webace</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000004.xml" rel="self"/>
     <description><![CDATA[Recent content on フェイト／エクストラ CCC FoxTail]]></description>
-    <lastBuildDate>Sun, 22 Nov 2020 15:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2020 16:12:57 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Chapter26-2]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000004/episode/1001/</link>
+      
+      <description><![CDATA[&#x591C;&#x2160;&#x2461;]]></description>
+      <content:encoded><![CDATA[&#x591C;&#x2160;&#x2461;]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1001/</guid>
+    </item>
     
     <item>
       <title><![CDATA[Chapter26-1]]></title>
       <link>https://web-ace.jp/tmca/contents/2000004/episode/1000/</link>
       
-        <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description><![CDATA[&#x591C;&#x2160;&#x2460;]]></description>
+      <content:encoded><![CDATA[&#x591C;&#x2160;&#x2460;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1000/</guid>
     </item>
     
@@ -24,10 +31,8 @@
       <title><![CDATA[Chapter25-3]]></title>
       <link>https://web-ace.jp/tmca/contents/2000004/episode/999/</link>
       
-        <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description><![CDATA[&#x4F1A;&#x8B70;&#x2462;]]></description>
+      <content:encoded><![CDATA[&#x4F1A;&#x8B70;&#x2462;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/999/</guid>
     </item>
     
@@ -35,10 +40,8 @@
       <title><![CDATA[Chapter25-2]]></title>
       <link>https://web-ace.jp/tmca/contents/2000004/episode/998/</link>
       
-        <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description><![CDATA[&#x4F1A;&#x8B70;&#x2461;]]></description>
+      <content:encoded><![CDATA[&#x4F1A;&#x8B70;&#x2461;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/998/</guid>
     </item>
     
@@ -46,22 +49,9 @@
       <title><![CDATA[Chapter25-1]]></title>
       <link>https://web-ace.jp/tmca/contents/2000004/episode/946/</link>
       
-        <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <description><![CDATA[&#x4F1A;&#x8B70;&#x2460;]]></description>
+      <content:encoded><![CDATA[&#x4F1A;&#x8B70;&#x2460;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/946/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[Chapter24-3]]></title>
-      <link>https://web-ace.jp/tmca/contents/2000004/episode/766/</link>
-      
-        <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/766/</guid>
     </item>
     
   </channel>

@@ -7,13 +7,20 @@
     <link>https://r7kamura.github.io/weneedfeed-webace</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000141.xml" rel="self"/>
     <description><![CDATA[Recent content on 野球場でいただきます]]></description>
-    <lastBuildDate>Sun, 22 Nov 2020 15:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2020 16:12:51 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第７話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4782/</link>
+      
+      <description><![CDATA[&#x30E4;&#x30F3;&#x30B0;&#x30A8;&#x30FC;&#x30B9;UP&#x516C;&#x5F0F;Twitter]]></description>
+      <content:encoded><![CDATA[&#x30E4;&#x30F3;&#x30B0;&#x30A8;&#x30FC;&#x30B9;UP&#x516C;&#x5F0F;Twitter]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000141/episode/4782/</guid>
+    </item>
     
     <item>
       <title><![CDATA[第６話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4681/</link>
-      
-        <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -24,8 +31,6 @@
       <title><![CDATA[第５話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4582/</link>
       
-        <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000141/episode/4582/</guid>
@@ -34,8 +39,6 @@
     <item>
       <title><![CDATA[第４話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4526/</link>
-      
-        <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -46,22 +49,54 @@
       <title><![CDATA[第３話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4501/</link>
       
-        <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000141/episode/4501/</guid>
     </item>
     
     <item>
-      <title><![CDATA[第２話]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000141/episode/4446/</link>
-      
-        <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <title><![CDATA[]]></title>
+      <link>https://web-ace.jp/youngaceup/notice/22/</link>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000141/episode/4446/</guid>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/notice/22/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[]]></title>
+      <link>https://web-ace.jp/youngaceup/notice/127/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/notice/127/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[]]></title>
+      <link>https://web-ace.jp/youngaceup/notice/125/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/notice/125/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[]]></title>
+      <link>https://web-ace.jp/youngaceup/notice/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/notice/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000046/</link>
+      
+      <description><![CDATA[&#x7570;&#x4E16;&#x754C;&#x843D;&#x8A9E;(4)]]></description>
+      <content:encoded><![CDATA[&#x7570;&#x4E16;&#x754C;&#x843D;&#x8A9E;(4)]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000046/</guid>
     </item>
     
   </channel>
