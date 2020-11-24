@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/youngaceup/contents/1000146/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000146.xml" rel="self"/>
-    <description><![CDATA[Recent content on 家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:25 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:22:01 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第３話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000146/episode/4779/</link>
+      
+        <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x5165;&#x308A;&#x53E3;&#x2460;]]></description>
       <content:encoded><![CDATA[&#x5165;&#x308A;&#x53E3;&#x2460;]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[第２話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000146/episode/4750/</link>
       
+        <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x30A2;&#x30C6;&#x30A3;&#x2461;]]></description>
       <content:encoded><![CDATA[&#x30A2;&#x30C6;&#x30A3;&#x2461;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000146/episode/4750/</guid>
@@ -31,6 +35,8 @@
       <title><![CDATA[第２話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000146/episode/4688/</link>
       
+        <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x30A2;&#x30C6;&#x30A3;&#x2460;]]></description>
       <content:encoded><![CDATA[&#x30A2;&#x30C6;&#x30A3;&#x2460;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000146/episode/4688/</guid>
@@ -39,6 +45,8 @@
     <item>
       <title><![CDATA[第１話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000146/episode/4631/</link>
+      
+        <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x30C0;&#x30FC;&#x30AF;&#x30A8;&#x30EB;&#x30D5;&#x306E;&#x5974;&#x96B7;&#x2460;]]></description>
       <content:encoded><![CDATA[&#x30C0;&#x30FC;&#x30AF;&#x30A8;&#x30EB;&#x30D5;&#x306E;&#x5974;&#x96B7;&#x2460;]]></content:encoded>

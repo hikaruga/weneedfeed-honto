@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[公爵令嬢の嗜み]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/youngaceup/contents/1000012/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000012.xml" rel="self"/>
-    <description><![CDATA[Recent content on 公爵令嬢の嗜み]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:21 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:21:57 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第５９話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000012/episode/4758/</link>
+      
+        <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x516C;&#x7235;&#x4EE4;&#x5B22;&#x306E;&#x55DC;&#x307F;(7)]]></description>
       <content:encoded><![CDATA[&#x516C;&#x7235;&#x4EE4;&#x5B22;&#x306E;&#x55DC;&#x307F;(7)]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[第５９話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000012/episode/4597/</link>
       
+        <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000012/episode/4597/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[第５８話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000012/episode/4556/</link>
+      
+        <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -40,6 +46,8 @@
       <title><![CDATA[第５８話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000012/episode/4555/</link>
       
+        <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000012/episode/4555/</guid>
@@ -48,6 +56,8 @@
     <item>
       <title><![CDATA[第５７話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000012/episode/4475/</link>
+      
+        <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>

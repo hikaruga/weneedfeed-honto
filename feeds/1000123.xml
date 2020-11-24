@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[蜘蛛ですが、なにか？ 蜘蛛子四姉妹の日常]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/youngaceup/contents/1000123/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000123.xml" rel="self"/>
-    <description><![CDATA[Recent content on 蜘蛛ですが、なにか？ 蜘蛛子四姉妹の日常]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:24 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:21:58 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第５５話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000123/episode/4702/</link>
+      
+        <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x8718;&#x86DB;&#x3067;&#x3059;&#x304C;&#x3001;&#x306A;&#x306B;&#x304B;&#xFF1F; &#x8718;&#x86DB;&#x5B50;&#x56DB;&#x59C9;&#x59B9;&#x306E;&#x65E5;&#x5E38;(2)]]></description>
       <content:encoded><![CDATA[&#x8718;&#x86DB;&#x3067;&#x3059;&#x304C;&#x3001;&#x306A;&#x306B;&#x304B;&#xFF1F; &#x8718;&#x86DB;&#x5B50;&#x56DB;&#x59C9;&#x59B9;&#x306E;&#x65E5;&#x5E38;(2)]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[第５４話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000123/episode/4701/</link>
       
+        <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000123/episode/4701/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[第５３話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000123/episode/4700/</link>
+      
+        <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -40,6 +46,8 @@
       <title><![CDATA[第５２話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000123/episode/4649/</link>
       
+        <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000123/episode/4649/</guid>
@@ -48,6 +56,8 @@
     <item>
       <title><![CDATA[第５１話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000123/episode/4648/</link>
+      
+        <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>

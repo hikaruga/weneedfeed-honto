@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[書いて欲しけりゃコレを喰え]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/youngaceup/contents/1000145/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000145.xml" rel="self"/>
-    <description><![CDATA[Recent content on 書いて欲しけりゃコレを喰え]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:25 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:22:01 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[５品目]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000145/episode/4742/</link>
+      
+        <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x9C10;&#x306E;&#x624B;&#x306E;&#x30B9;&#x30C6;&#x30FC;&#x30AD;]]></description>
       <content:encoded><![CDATA[&#x9C10;&#x306E;&#x624B;&#x306E;&#x30B9;&#x30C6;&#x30FC;&#x30AD;]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[４品目]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000145/episode/4694/</link>
       
+        <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x30BE;&#x30F3;&#x30D3;&#x30B1;&#x30FC;&#x30AD;]]></description>
       <content:encoded><![CDATA[&#x30BE;&#x30F3;&#x30D3;&#x30B1;&#x30FC;&#x30AD;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000145/episode/4694/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[３品目]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000145/episode/4595/</link>
+      
+        <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x725B;&#x306E;&#x30C1;&#x3007;&#x30B3;&#x3068;&#x30AD;&#x3007;&#x30BF;&#x30DE;]]></description>
       <content:encoded><![CDATA[&#x725B;&#x306E;&#x30C1;&#x3007;&#x30B3;&#x3068;&#x30AD;&#x3007;&#x30BF;&#x30DE;]]></content:encoded>
@@ -40,6 +46,8 @@
       <title><![CDATA[２品目]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000145/episode/4532/</link>
       
+        <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x7F8A;&#x306E;&#x8133;&#x5473;&#x564C;&#x30AB;&#x30EC;&#x30FC;]]></description>
       <content:encoded><![CDATA[&#x7F8A;&#x306E;&#x8133;&#x5473;&#x564C;&#x30AB;&#x30EC;&#x30FC;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000145/episode/4532/</guid>
@@ -48,6 +56,8 @@
     <item>
       <title><![CDATA[１品目]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000145/episode/4531/</link>
+      
+        <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x30A6;&#x30FC;&#x30D1;&#x30FC;&#x30EB;&#x30FC;&#x30D1;&#x30FC;&#x4E3C;]]></description>
       <content:encoded><![CDATA[&#x30A6;&#x30FC;&#x30D1;&#x30FC;&#x30EB;&#x30FC;&#x30D1;&#x30FC;&#x4E3C;]]></content:encoded>

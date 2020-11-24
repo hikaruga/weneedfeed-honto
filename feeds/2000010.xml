@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[フェイト／エクストラ]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/tmca/contents/2000010/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000010.xml" rel="self"/>
-    <description><![CDATA[Recent content on フェイト／エクストラ]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:27 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:22:04 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[phantasm32-1]]></title>
       <link>https://web-ace.jp/tmca/contents/2000010/episode/1046/</link>
+      
+        <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[battle of irregulars&#x2460;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;14&#x65E5;(&#x6708;)&#x307E;&#x3067;&#x3011;]]></description>
       <content:encoded><![CDATA[battle of irregulars&#x2460;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;14&#x65E5;(&#x6708;)&#x307E;&#x3067;&#x3011;]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[phantasm31-2]]></title>
       <link>https://web-ace.jp/tmca/contents/2000010/episode/926/</link>
       
+        <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x6697;&#x6BBA;&#x8005;&#x306E;&#x5B64;&#x72EC;&#x2461;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;7&#x65E5;(&#x6708;)&#x307E;&#x3067;&#x3011;]]></description>
       <content:encoded><![CDATA[&#x6697;&#x6BBA;&#x8005;&#x306E;&#x5B64;&#x72EC;&#x2461;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;7&#x65E5;(&#x6708;)&#x307E;&#x3067;&#x3011;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000010/episode/926/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[phantasm31-1]]></title>
       <link>https://web-ace.jp/tmca/contents/2000010/episode/925/</link>
+      
+        <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x6697;&#x6BBA;&#x8005;&#x306E;&#x5B64;&#x72EC;&#x2460;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;11&#x6708;30&#x65E5;(&#x6708;)&#x307E;&#x3067;&#x3011;]]></description>
       <content:encoded><![CDATA[&#x6697;&#x6BBA;&#x8005;&#x306E;&#x5B64;&#x72EC;&#x2460;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;11&#x6708;30&#x65E5;(&#x6708;)&#x307E;&#x3067;&#x3011;]]></content:encoded>

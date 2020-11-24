@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[特殊性癖教室へようこそ]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/youngaceup/contents/1000107/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000107.xml" rel="self"/>
-    <description><![CDATA[Recent content on 特殊性癖教室へようこそ]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:23 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:21:58 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[９限目-３]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000107/episode/4756/</link>
+      
+        <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x30E4;&#x30C4;&#x306B;&#x53CD;&#x65D7;&#x3092;&#x7FFB;&#x305B;&#xFF01;&#x2462;]]></description>
       <content:encoded><![CDATA[&#x30E4;&#x30C4;&#x306B;&#x53CD;&#x65D7;&#x3092;&#x7FFB;&#x305B;&#xFF01;&#x2462;]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[９限目-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000107/episode/4685/</link>
       
+        <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x30E4;&#x30C4;&#x306B;&#x53CD;&#x65D7;&#x3092;&#x7FFB;&#x305B;&#xFF01;&#x2461;]]></description>
       <content:encoded><![CDATA[&#x30E4;&#x30C4;&#x306B;&#x53CD;&#x65D7;&#x3092;&#x7FFB;&#x305B;&#xFF01;&#x2461;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000107/episode/4685/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[９限目-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000107/episode/4366/</link>
+      
+        <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x30E4;&#x30C4;&#x306B;&#x53CD;&#x65D7;&#x3092;&#x7FFB;&#x305B;&#xFF01;&#x2460;]]></description>
       <content:encoded><![CDATA[&#x30E4;&#x30C4;&#x306B;&#x53CD;&#x65D7;&#x3092;&#x7FFB;&#x305B;&#xFF01;&#x2460;]]></content:encoded>
@@ -40,6 +46,8 @@
       <title><![CDATA[８限目-３]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000107/episode/4365/</link>
       
+        <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[HSGR&#x306E;&#x66B4;&#x8D70;&#x3092;&#x6B62;&#x3081;&#x308D;&#xFF01;&#x2462;]]></description>
       <content:encoded><![CDATA[HSGR&#x306E;&#x66B4;&#x8D70;&#x3092;&#x6B62;&#x3081;&#x308D;&#xFF01;&#x2462;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000107/episode/4365/</guid>
@@ -48,6 +56,8 @@
     <item>
       <title><![CDATA[８限目-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000107/episode/4263/</link>
+      
+        <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[HSGR&#x306E;&#x66B4;&#x8D70;&#x3092;&#x6B62;&#x3081;&#x308D;&#xFF01;&#x2461;]]></description>
       <content:encoded><![CDATA[HSGR&#x306E;&#x66B4;&#x8D70;&#x3092;&#x6B62;&#x3081;&#x308D;&#xFF01;&#x2461;]]></content:encoded>

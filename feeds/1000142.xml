@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[美木さん、大好きです！]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/youngaceup/contents/1000142/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000142.xml" rel="self"/>
-    <description><![CDATA[Recent content on 美木さん、大好きです！]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:24 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:22:01 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第９話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000142/episode/4686/</link>
+      
+        <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x7F8E;&#x6728;&#x3055;&#x3093;&#x3001;&#x5927;&#x597D;&#x304D;&#x3067;&#x3059;&#xFF01;(1)]]></description>
       <content:encoded><![CDATA[&#x7F8E;&#x6728;&#x3055;&#x3093;&#x3001;&#x5927;&#x597D;&#x304D;&#x3067;&#x3059;&#xFF01;(1)]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[第９話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000142/episode/4617/</link>
       
+        <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000142/episode/4617/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[第８話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000142/episode/4598/</link>
+      
+        <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -40,6 +46,8 @@
       <title><![CDATA[第７話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000142/episode/4540/</link>
       
+        <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000142/episode/4540/</guid>
@@ -48,6 +56,8 @@
     <item>
       <title><![CDATA[第６話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000142/episode/4539/</link>
+      
+        <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>

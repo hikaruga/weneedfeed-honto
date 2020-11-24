@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[ねこへん ～ねこと編集～]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/youngaceup/contents/1000148/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000148.xml" rel="self"/>
-    <description><![CDATA[Recent content on ねこへん ～ねこと編集～]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:26 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:22:02 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第３話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000148/episode/4783/</link>
+      
+        <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[第２話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000148/episode/4762/</link>
       
+        <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000148/episode/4762/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[第１話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000148/episode/4760/</link>
+      
+        <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>

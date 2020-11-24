@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[フェイト／育ステラ]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/youngaceup/contents/1000085/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000085.xml" rel="self"/>
-    <description><![CDATA[Recent content on フェイト／育ステラ]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:23 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:21:58 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[休載告知]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000085/episode/2196/</link>
+      
+        <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x3057;&#x3070;&#x3089;&#x304F;&#x4F11;&#x8F09;&#x3044;&#x305F;&#x3057;&#x307E;&#x3059;&#x3002;]]></description>
       <content:encoded><![CDATA[&#x3057;&#x3070;&#x3089;&#x304F;&#x4F11;&#x8F09;&#x3044;&#x305F;&#x3057;&#x307E;&#x3059;&#x3002;]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[番外編]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000085/episode/2195/</link>
       
+        <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x80B2;&#x30B9;&#x30C6;&#x30E9;&#x306E;&#x30A8;&#x30AF;&#x30B9;&#x30C8;&#x30E9;]]></description>
       <content:encoded><![CDATA[&#x80B2;&#x30B9;&#x30C6;&#x30E9;&#x306E;&#x30A8;&#x30AF;&#x30B9;&#x30C8;&#x30E9;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000085/episode/2195/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[第１９話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000085/episode/2092/</link>
+      
+        <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x30A2;&#x30EB;&#x30C6;&#x30E9;&#x30DE;&#x30F3;&#x306E;&#x6182;&#x9B31;]]></description>
       <content:encoded><![CDATA[&#x30A2;&#x30EB;&#x30C6;&#x30E9;&#x30DE;&#x30F3;&#x306E;&#x6182;&#x9B31;]]></content:encoded>
@@ -40,6 +46,8 @@
       <title><![CDATA[第１８話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000085/episode/2091/</link>
       
+        <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x5922;&#x306E;&#x4E2D;&#x3067;&#x3082;&#x3061;&#x3082;&#x3061;]]></description>
       <content:encoded><![CDATA[&#x5922;&#x306E;&#x4E2D;&#x3067;&#x3082;&#x3061;&#x3082;&#x3061;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000085/episode/2091/</guid>
@@ -48,6 +56,8 @@
     <item>
       <title><![CDATA[第１７話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000085/episode/2002/</link>
+      
+        <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x6E29;&#x3081;&#x305F;]]></description>
       <content:encoded><![CDATA[&#x6E29;&#x3081;&#x305F;]]></content:encoded>

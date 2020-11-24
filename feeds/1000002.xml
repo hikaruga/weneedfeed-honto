@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[文豪ストレイドッグス わん！]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/youngaceup/contents/1000002/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000002.xml" rel="self"/>
-    <description><![CDATA[Recent content on 文豪ストレイドッグス わん！]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:21 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:21:56 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第１１９話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000002/episode/4723/</link>
+      
+        <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x30A6;&#x30AD;&#x30A6;&#x30AD;&#xFF01;VR&#x4FEE;&#x884C;&#xFF01;]]></description>
       <content:encoded><![CDATA[&#x30A6;&#x30AD;&#x30A6;&#x30AD;&#xFF01;VR&#x4FEE;&#x884C;&#xFF01;]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[第１１８話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000002/episode/4676/</link>
       
+        <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x771F;&#x591C;&#x4E2D;&#x306E;&#x9B54;&#x7269;&#xFF08;&#x30C6;&#x30F3;&#x30B7;&#x30E7;&#x30F3;&#xFF09;]]></description>
       <content:encoded><![CDATA[&#x771F;&#x591C;&#x4E2D;&#x306E;&#x9B54;&#x7269;&#xFF08;&#x30C6;&#x30F3;&#x30B7;&#x30E7;&#x30F3;&#xFF09;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000002/episode/4676/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[第１１７話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000002/episode/4675/</link>
+      
+        <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x6545;&#x3042;&#x3063;&#x3066;&#x3001;&#x8272;&#x3005;&#x3084;&#x3063;&#x3066;&#x307E;&#x3059;]]></description>
       <content:encoded><![CDATA[&#x6545;&#x3042;&#x3063;&#x3066;&#x3001;&#x8272;&#x3005;&#x3084;&#x3063;&#x3066;&#x307E;&#x3059;]]></content:encoded>
@@ -40,6 +46,8 @@
       <title><![CDATA[第１１６話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000002/episode/4639/</link>
       
+        <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x5148;&#x8F29;&#x306E;&#x53CB;&#x4EBA;&#x3001;&#x7DCA;&#x5F35;&#x3057;&#x304C;&#x3061;]]></description>
       <content:encoded><![CDATA[&#x5148;&#x8F29;&#x306E;&#x53CB;&#x4EBA;&#x3001;&#x7DCA;&#x5F35;&#x3057;&#x304C;&#x3061;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000002/episode/4639/</guid>
@@ -48,6 +56,8 @@
     <item>
       <title><![CDATA[第１１５話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000002/episode/4609/</link>
+      
+        <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x904E;&#x304E;&#x53BB;&#x3063;&#x305F;&#xFF01;&#x9752;&#x6625;&#xFF01;]]></description>
       <content:encoded><![CDATA[&#x904E;&#x304E;&#x53BB;&#x3063;&#x305F;&#xFF01;&#x9752;&#x6625;&#xFF01;]]></content:encoded>

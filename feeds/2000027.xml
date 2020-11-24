@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[Fate/Grand Order 藤丸立香はわからない]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/tmca/contents/2000027/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000027.xml" rel="self"/>
-    <description><![CDATA[Recent content on Fate/Grand Order 藤丸立香はわからない]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:28 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:22:04 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第6話]]></title>
       <link>https://web-ace.jp/tmca/contents/2000027/episode/948/</link>
+      
+        <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[<a href="/youngace/contents/274/">&#x30ED;&#x30FC;&#x30C9;&#x30FB;&#x30A8;&#x30EB;&#x30E1;&#x30ED;&#x30A4;&#x2161;&#x4E16;&#x306E;&#x4E8B;&#x4EF6;&#x7C3F;</a>]]></description>
       <content:encoded><![CDATA[<a href="/youngace/contents/274/">&#x30ED;&#x30FC;&#x30C9;&#x30FB;&#x30A8;&#x30EB;&#x30E1;&#x30ED;&#x30A4;&#x2161;&#x4E16;&#x306E;&#x4E8B;&#x4EF6;&#x7C3F;</a>]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[第5話]]></title>
       <link>https://web-ace.jp/tmca/contents/2000027/episode/947/</link>
       
+        <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000027/episode/947/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[第4話]]></title>
       <link>https://web-ace.jp/tmca/contents/2000027/episode/697/</link>
+      
+        <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -40,6 +46,8 @@
       <title><![CDATA[第3話]]></title>
       <link>https://web-ace.jp/tmca/contents/2000027/episode/696/</link>
       
+        <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000027/episode/696/</guid>
@@ -48,6 +56,8 @@
     <item>
       <title><![CDATA[第2話]]></title>
       <link>https://web-ace.jp/tmca/contents/2000027/episode/698/</link>
+      
+        <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>

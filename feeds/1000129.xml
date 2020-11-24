@@ -4,14 +4,16 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[賢者の孫SS]]></title>
-    <link>https://r7kamura.github.io/weneedfeed-webace</link>
+    <link>https://web-ace.jp/youngaceup/contents/1000129/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000129.xml" rel="self"/>
-    <description><![CDATA[Recent content on 賢者の孫SS]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 16:44:24 +0000</lastBuildDate>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 24 Nov 2020 17:21:59 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第２２話-２]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000129/episode/4778/</link>
+      
+        <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x30B7;&#x30F3;&#x30D7;&#x30EB;&#x30C7;&#x30FC;&#x30C8;&#x2461;]]></description>
       <content:encoded><![CDATA[&#x30B7;&#x30F3;&#x30D7;&#x30EB;&#x30C7;&#x30FC;&#x30C8;&#x2461;]]></content:encoded>
@@ -22,6 +24,8 @@
       <title><![CDATA[第２２話-１]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000129/episode/4740/</link>
       
+        <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x30B7;&#x30F3;&#x30D7;&#x30EB;&#x30C7;&#x30FC;&#x30C8;&#x2460;]]></description>
       <content:encoded><![CDATA[&#x30B7;&#x30F3;&#x30D7;&#x30EB;&#x30C7;&#x30FC;&#x30C8;&#x2460;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000129/episode/4740/</guid>
@@ -30,6 +34,8 @@
     <item>
       <title><![CDATA[第２１話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000129/episode/4674/</link>
+      
+        <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x30B9;&#x30D1;&#x30EB;&#x30BF;&#xFF1F; &#x7518;&#x3005;&#xFF1F;]]></description>
       <content:encoded><![CDATA[&#x30B9;&#x30D1;&#x30EB;&#x30BF;&#xFF1F; &#x7518;&#x3005;&#xFF1F;]]></content:encoded>
@@ -40,6 +46,8 @@
       <title><![CDATA[第２０話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000129/episode/4673/</link>
       
+        <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
       <description><![CDATA[&#x624B;&#x6599;&#x7406;&#x3078;&#x306E;&#x61A7;&#x308C;]]></description>
       <content:encoded><![CDATA[&#x624B;&#x6599;&#x7406;&#x3078;&#x306E;&#x61A7;&#x308C;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000129/episode/4673/</guid>
@@ -48,6 +56,8 @@
     <item>
       <title><![CDATA[第１９話]]></title>
       <link>https://web-ace.jp/youngaceup/contents/1000129/episode/4608/</link>
+      
+        <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
       <description><![CDATA[&#x3086;&#x3089;&#x3081;&#x304F;&#x3082;&#x306E;]]></description>
       <content:encoded><![CDATA[&#x3086;&#x3089;&#x3081;&#x304F;&#x3082;&#x306E;]]></content:encoded>
