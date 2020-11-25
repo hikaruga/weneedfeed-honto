@@ -7,7 +7,18 @@
     <link>https://web-ace.jp/youngaceup/contents/1000105/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000105.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 17:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 15:07:46 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第１６話-2]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000105/episode/4808/</link>
+      
+        <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[&#x8CE2;&#x8005;&#x306E;&#x5B6B; Extra Story(3)]]></description>
+      <content:encoded><![CDATA[&#x8CE2;&#x8005;&#x306E;&#x5B6B; Extra Story(3)]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000105/episode/4808/</guid>
+    </item>
     
     <item>
       <title><![CDATA[第１６話-１]]></title>
@@ -18,17 +29,6 @@
       <description><![CDATA[&#x8CE2;&#x8005;&#x306E;&#x5B6B; Extra Story(3)]]></description>
       <content:encoded><![CDATA[&#x8CE2;&#x8005;&#x306E;&#x5B6B; Extra Story(3)]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000105/episode/4699/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第３話-３]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000105/episode/3004/</link>
-      
-        <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000105/episode/3004/</guid>
     </item>
     
   </channel>

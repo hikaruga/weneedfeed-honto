@@ -7,7 +7,18 @@
     <link>https://web-ace.jp/tmca/contents/2000009/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000009.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 24 Nov 2020 17:22:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 15:07:58 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[45時限目]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000009/episode/1079/</link>
+      
+        <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[&#x5973;&#x795E;&#x3055;&#x307E;&#x304C;&#x902E;&#x6355;&#x3057;&#x3061;&#x3083;&#x3046;&#x305E;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;29&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></description>
+      <content:encoded><![CDATA[&#x5973;&#x795E;&#x3055;&#x307E;&#x304C;&#x902E;&#x6355;&#x3057;&#x3061;&#x3083;&#x3046;&#x305E;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;29&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000009/episode/1079/</guid>
+    </item>
     
     <item>
       <title><![CDATA[番外編]]></title>
@@ -51,17 +62,6 @@
       <description><![CDATA[&#x4E00;&#x767A;&#x82B8;&#x5927;&#x4F1A;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;1&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></description>
       <content:encoded><![CDATA[&#x4E00;&#x767A;&#x82B8;&#x5927;&#x4F1A;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;1&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000009/episode/910/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[42時限目]]></title>
-      <link>https://web-ace.jp/tmca/contents/2000009/episode/909/</link>
-      
-        <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[&#x5B66;&#x5712;&#x796D;&#x30B9;&#x30BF;&#x30FC;&#x30C8;&#xFF01;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;11&#x6708;24&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></description>
-      <content:encoded><![CDATA[&#x5B66;&#x5712;&#x796D;&#x30B9;&#x30BF;&#x30FC;&#x30C8;&#xFF01;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;11&#x6708;24&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000009/episode/909/</guid>
     </item>
     
   </channel>
