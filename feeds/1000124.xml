@@ -7,7 +7,18 @@
     <link>https://web-ace.jp/youngaceup/contents/1000124/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000124.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 29 Nov 2020 15:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 15:10:07 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第５６話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000124/episode/4802/</link>
+      
+        <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[&#x5E30;&#x3063;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#xFF01;&#x963F;&#x4E45;&#x6D25;&#x3055;&#x3093;(2)]]></description>
+      <content:encoded><![CDATA[&#x5E30;&#x3063;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#xFF01;&#x963F;&#x4E45;&#x6D25;&#x3055;&#x3093;(2)]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000124/episode/4802/</guid>
+    </item>
     
     <item>
       <title><![CDATA[第５５話]]></title>
@@ -15,8 +26,8 @@
       
         <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <description><![CDATA[&#x5E30;&#x3063;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#xFF01;&#x963F;&#x4E45;&#x6D25;&#x3055;&#x3093;(2)]]></description>
-      <content:encoded><![CDATA[&#x5E30;&#x3063;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#xFF01;&#x963F;&#x4E45;&#x6D25;&#x3055;&#x3093;(2)]]></content:encoded>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000124/episode/4801/</guid>
     </item>
     
@@ -51,17 +62,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000124/episode/4716/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第５１話]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000124/episode/4659/</link>
-      
-        <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000124/episode/4659/</guid>
     </item>
     
   </channel>

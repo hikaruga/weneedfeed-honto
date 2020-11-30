@@ -7,7 +7,18 @@
     <link>https://web-ace.jp/youngaceup/contents/1000122/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000122.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 29 Nov 2020 15:07:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 15:10:07 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第１５話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000122/episode/4799/</link>
+      
+        <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[&#x8CE2;&#x8005;&#x306E;&#x5B6B;SP(2)]]></description>
+      <content:encoded><![CDATA[&#x8CE2;&#x8005;&#x306E;&#x5B6B;SP(2)]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000122/episode/4799/</guid>
+    </item>
     
     <item>
       <title><![CDATA[第１４話]]></title>
@@ -29,17 +40,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000122/episode/3977/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第３話]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000122/episode/3883/</link>
-      
-        <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000122/episode/3883/</guid>
     </item>
     
   </channel>
