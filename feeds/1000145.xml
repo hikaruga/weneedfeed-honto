@@ -7,7 +7,18 @@
     <link>https://web-ace.jp/youngaceup/contents/1000145/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000145.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 30 Nov 2020 15:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 15:10:16 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[６品目]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000145/episode/4793/</link>
+      
+        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[&#x30AA;&#x30AA;&#x30B0;&#x30BD;&#x30AF;&#x30E0;&#x30B7;&#x306E;&#x5473;&#x564C;&#x6C41;]]></description>
+      <content:encoded><![CDATA[&#x30AA;&#x30AA;&#x30B0;&#x30BD;&#x30AF;&#x30E0;&#x30B7;&#x306E;&#x5473;&#x564C;&#x6C41;]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000145/episode/4793/</guid>
+    </item>
     
     <item>
       <title><![CDATA[５品目]]></title>
@@ -51,17 +62,6 @@
       <description><![CDATA[&#x7F8A;&#x306E;&#x8133;&#x5473;&#x564C;&#x30AB;&#x30EC;&#x30FC;]]></description>
       <content:encoded><![CDATA[&#x7F8A;&#x306E;&#x8133;&#x5473;&#x564C;&#x30AB;&#x30EC;&#x30FC;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000145/episode/4532/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[１品目]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000145/episode/4531/</link>
-      
-        <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[&#x30A6;&#x30FC;&#x30D1;&#x30FC;&#x30EB;&#x30FC;&#x30D1;&#x30FC;&#x4E3C;]]></description>
-      <content:encoded><![CDATA[&#x30A6;&#x30FC;&#x30D1;&#x30FC;&#x30EB;&#x30FC;&#x30D1;&#x30FC;&#x4E3C;]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000145/episode/4531/</guid>
     </item>
     
   </channel>
