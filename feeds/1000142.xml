@@ -7,7 +7,18 @@
     <link>https://web-ace.jp/youngaceup/contents/1000142/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000142.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 01 Dec 2020 15:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 15:10:06 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第１０話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000142/episode/4871/</link>
+      
+        <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[&#x7F8E;&#x6728;&#x3055;&#x3093;&#x3001;&#x5927;&#x597D;&#x304D;&#x3067;&#x3059;&#xFF01;(1)]]></description>
+      <content:encoded><![CDATA[&#x7F8E;&#x6728;&#x3055;&#x3093;&#x3001;&#x5927;&#x597D;&#x304D;&#x3067;&#x3059;&#xFF01;(1)]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000142/episode/4871/</guid>
+    </item>
     
     <item>
       <title><![CDATA[第９話-２]]></title>
@@ -15,8 +26,8 @@
       
         <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <description><![CDATA[&#x7F8E;&#x6728;&#x3055;&#x3093;&#x3001;&#x5927;&#x597D;&#x304D;&#x3067;&#x3059;&#xFF01;(1)]]></description>
-      <content:encoded><![CDATA[&#x7F8E;&#x6728;&#x3055;&#x3093;&#x3001;&#x5927;&#x597D;&#x304D;&#x3067;&#x3059;&#xFF01;(1)]]></content:encoded>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000142/episode/4686/</guid>
     </item>
     
@@ -51,17 +62,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000142/episode/4540/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第６話]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000142/episode/4539/</link>
-      
-        <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000142/episode/4539/</guid>
     </item>
     
   </channel>

@@ -7,7 +7,18 @@
     <link>https://web-ace.jp/youngaceup/contents/1000046/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000046.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 01 Dec 2020 15:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 15:09:55 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第４６話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000046/episode/4872/</link>
+      
+        <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[&#x7570;&#x4E16;&#x754C;&#x5EFA;&#x56FD;&#x8A18;(6)]]></description>
+      <content:encoded><![CDATA[&#x7570;&#x4E16;&#x754C;&#x5EFA;&#x56FD;&#x8A18;(6)]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000046/episode/4872/</guid>
+    </item>
     
     <item>
       <title><![CDATA[第４５話]]></title>
@@ -15,8 +26,8 @@
       
         <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
       
-      <description><![CDATA[&#x7570;&#x4E16;&#x754C;&#x5EFA;&#x56FD;&#x8A18;(6)]]></description>
-      <content:encoded><![CDATA[&#x7570;&#x4E16;&#x754C;&#x5EFA;&#x56FD;&#x8A18;(6)]]></content:encoded>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000046/episode/4814/</guid>
     </item>
     
@@ -51,17 +62,6 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000046/episode/4706/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第４２話-２]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000046/episode/4633/</link>
-      
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000046/episode/4633/</guid>
     </item>
     
   </channel>

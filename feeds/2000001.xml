@@ -7,7 +7,18 @@
     <link>https://web-ace.jp/tmca/contents/2000001/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000001.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 01 Dec 2020 15:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 15:10:09 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Episode:25-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000001/episode/1061/</link>
+      
+        <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[&#x7ADC;&#x544A;&#x4EE4;&#x546A;&#x2460;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;22&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></description>
+      <content:encoded><![CDATA[&#x7ADC;&#x544A;&#x4EE4;&#x546A;&#x2460;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;22&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000001/episode/1061/</guid>
+    </item>
     
     <item>
       <title><![CDATA[Episode:24-4]]></title>
@@ -29,17 +40,6 @@
       <description><![CDATA[&#x78D4;&#x5211;&#x306E;&#x96F7;&#x6A39;&#x2462;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;8&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></description>
       <content:encoded><![CDATA[&#x78D4;&#x5211;&#x306E;&#x96F7;&#x6A39;&#x2462;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;8&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000001/episode/898/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[Episode:24-2]]></title>
-      <link>https://web-ace.jp/tmca/contents/2000001/episode/897/</link>
-      
-        <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[&#x78D4;&#x5211;&#x306E;&#x96F7;&#x6A39;&#x2461;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;1&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></description>
-      <content:encoded><![CDATA[&#x78D4;&#x5211;&#x306E;&#x96F7;&#x6A39;&#x2461;&#x3000;&#x3010;&#x516C;&#x958B;&#x671F;&#x9650;2020&#x5E74;12&#x6708;1&#x65E5;(&#x706B;)&#x307E;&#x3067;&#x3011;]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000001/episode/897/</guid>
     </item>
     
   </channel>
