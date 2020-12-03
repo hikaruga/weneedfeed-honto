@@ -7,7 +7,19 @@
     <link>https://web-ace.jp/youngaceup/contents/1000064/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/1000064.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 02 Dec 2020 15:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2020 15:07:51 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第７４話]]></title>
+      <link>https://web-ace.jp/youngaceup/contents/1000064/episode/4794/</link>
+      
+        <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000064/episode/4794/</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[第７３話]]></title>
@@ -15,9 +27,10 @@
       
         <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
-      <description><![CDATA[&#x30D1;&#x30B7;&#x30EA;&#x306A;&#x50D5;&#x3068;&#x604B;&#x3059;&#x308B;&#x756A;&#x9577;&#x3055;&#x3093;(6)]]></description>
-      <content:encoded><![CDATA[&#x30D1;&#x30B7;&#x30EA;&#x306A;&#x50D5;&#x3068;&#x604B;&#x3059;&#x308B;&#x756A;&#x9577;&#x3055;&#x3093;(6)]]></content:encoded>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000064/episode/4788/</guid>
+      
     </item>
     
     <item>
@@ -29,6 +42,7 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000064/episode/4743/</guid>
+      
     </item>
     
     <item>
@@ -40,6 +54,7 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000064/episode/4722/</guid>
+      
     </item>
     
     <item>
@@ -51,17 +66,7 @@
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000064/episode/4651/</guid>
-    </item>
-    
-    <item>
-      <title><![CDATA[第６９話]]></title>
-      <link>https://web-ace.jp/youngaceup/contents/1000064/episode/4585/</link>
       
-        <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/youngaceup/contents/1000064/episode/4585/</guid>
     </item>
     
   </channel>
