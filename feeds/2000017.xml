@@ -7,7 +7,19 @@
     <link>https://web-ace.jp/tmca/contents/2000017/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000017.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 09 Dec 2020 15:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 15:09:30 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第7話]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000017/episode/1099/</link>
+      
+        <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[焼けつく咆哮]]></description>
+      <content:encoded><![CDATA[焼けつく咆哮]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000017/episode/1099/</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[第6話]]></title>
@@ -42,18 +54,6 @@
       <description><![CDATA[水曜日のオフィーリア]]></description>
       <content:encoded><![CDATA[水曜日のオフィーリア]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000017/episode/417/</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第1話]]></title>
-      <link>https://web-ace.jp/tmca/contents/2000017/episode/84/</link>
-      
-        <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[ディアフロム凍土]]></description>
-      <content:encoded><![CDATA[ディアフロム凍土]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000017/episode/84/</guid>
       
     </item>
     
