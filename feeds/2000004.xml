@@ -7,7 +7,19 @@
     <link>https://web-ace.jp/tmca/contents/2000004/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000004.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 10 Jan 2021 15:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 15:15:58 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Chapter28-2]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000004/episode/1006/</link>
+      
+        <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[ライバル②]]></description>
+      <content:encoded><![CDATA[ライバル②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1006/</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[Chapter28-1]]></title>
@@ -54,18 +66,6 @@
       <description><![CDATA[夜Ⅰ③]]></description>
       <content:encoded><![CDATA[夜Ⅰ③]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1002/</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Chapter26-2]]></title>
-      <link>https://web-ace.jp/tmca/contents/2000004/episode/1001/</link>
-      
-        <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[夜Ⅰ②]]></description>
-      <content:encoded><![CDATA[夜Ⅰ②]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1001/</guid>
       
     </item>
     
