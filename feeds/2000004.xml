@@ -7,7 +7,19 @@
     <link>https://web-ace.jp/tmca/contents/2000004/</link>
     <atom:link href="https://r7kamura.github.io/weneedfeed-webace/feeds/2000004.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 13 Jun 2021 15:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 15:15:14 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Chapter38-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000004/episode/1447/</link>
+      
+        <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[脱走①]]></description>
+      <content:encoded><![CDATA[脱走①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1447/</guid>
+      
+    </item>
     
     <item>
       <title><![CDATA[Chapter37-3]]></title>
@@ -54,18 +66,6 @@
       <description><![CDATA[資格③]]></description>
       <content:encoded><![CDATA[資格③]]></content:encoded>
       <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1318/</guid>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Chapter36-2]]></title>
-      <link>https://web-ace.jp/tmca/contents/2000004/episode/1317/</link>
-      
-        <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[資格②]]></description>
-      <content:encoded><![CDATA[資格②]]></content:encoded>
-      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1317/</guid>
       
     </item>
     
