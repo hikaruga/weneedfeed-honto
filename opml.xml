@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Weneedfeed</title>
+    <title>webエース</title>
   </head>
   <body>
-    <outline text="Weneedfeed" title="Weneedfeed">
+    <outline text="webエース" title="webエース">
       
         <outline type="rss" text="CANAAN" title="CANAAN" xmlUrl="https://r7kamura.github.io/weneedfeed-webace/feeds/2000026.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000026/"/>
       
