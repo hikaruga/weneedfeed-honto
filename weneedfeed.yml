@@ -1,6 +1,6 @@
 selectors: &selectors
   item_selector: .stBoxLine01
-  #item_description_selector: div.stContents ul li:nth-child(4)
+  item_description_selector: ul.stData li.stAuthor.dyAuthor
   item_image_selector: div.stImg p.stCover a picture source
   item_time_selector: ul.stData li:nth-child(4)
   item_link_selector: div.stInfo div.stContents h2 a
@@ -20,4 +20,8 @@ pages:
   - id: "1000009471"
     title: mimosa
     url: https://honto.jp/ebook/search_022_09-saledate.html?prdNm=mimosa+vol
+    <<: *selectors
+  - id: "1000000340"
+    title: リンクス LYNX
+    url: https://honto.jp/ebook/search_022_09-saledate.html?prdNm=%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B9+202
     <<: *selectors
