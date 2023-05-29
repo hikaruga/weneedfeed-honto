@@ -1,5 +1,5 @@
 selectors: &selectors
-  item_selector: div.stEb.stProduct02
+  item_selector: div div.stInfo
   item_description_selector: div.stInfo div.stContents p
   item_image_selector: p.stCover a picture img
   item_time_selector: div.stContents ul li.stRelease
