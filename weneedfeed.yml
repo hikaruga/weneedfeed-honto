@@ -41,3 +41,11 @@ pages:
     title: BABY
     url: https://honto.jp/ebook/search_09-saledate.html?brandcode=1000011854
     <<: *selectors
+  - id: "1000001843_CRAFT"
+    title: CRAFT
+    url: https://honto.jp/ebook/search_022_09-saledate.html?prdNm=CRAFT%2Bvol%2B%E3%80%90%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%80%91
+    <<: *selectors
+  - id: "1000005452"
+    title: シェリプラス CHERI+
+    url: https://honto.jp/ebook/search_09-saledate.html?brandcode=1000005452
+    <<: *selectors
