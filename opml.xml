@@ -6,7 +6,7 @@
   <body>
     <outline text="cmoa.jp" title="cmoa.jp">
       
-        <outline type="rss" attr="【電子版】CIEL" title="【電子版】CIEL" xmlUrl="https://hikaruga.github.io/weneedfeed-cmoa/feeds/109124.xml" htmlUrl="https://www.cmoa.jp/title/109124/?page=1&order=down&disp_mode=comp#buyarea"/>
+        <outline type="rss" attr="【電子版】CIEL" title="【電子版】CIEL" xmlUrl="https://hikaruga.github.io/weneedfeed-cmoa/feeds/109124.xml" htmlUrl="https://www.cmoa.jp/title/109124/"/>
       
     </outline>
   </body>
