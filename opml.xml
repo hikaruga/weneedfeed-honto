@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>honto.jp</title>
+    <title>cmoa.jp</title>
   </head>
   <body>
-    <outline text="honto.jp" title="honto.jp">
+    <outline text="cmoa.jp" title="cmoa.jp">
       
-        <outline type="rss" attr="【電子版】CIEL" title="【電子版】CIEL" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1002214645.xml" htmlUrl="https://honto.jp/ebook/pd-series_C-MBJ-20001-8-228498X.html"/>
+        <outline type="rss" attr="【電子版】CIEL" title="【電子版】CIEL" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1002214645.xml" htmlUrl="https://honto.jp/ebook/search_09-saledate.html?athid=1002214645"/>
       
-        <outline type="rss" attr="ビーボーイゴールド BE BOY GOLD" title="ビーボーイゴールド BE BOY GOLD" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000005391.xml" htmlUrl="https://honto.jp/ebook/pd-series_C-MBJ-28252-9-243049X.html"/>
+        <outline type="rss" attr="ビーボーイゴールド BE BOY GOLD" title="ビーボーイゴールド BE BOY GOLD" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000005391.xml" htmlUrl="https://honto.jp/ebook/search_09-saledate.html?brandcode=1000005391"/>
       
     </outline>
   </body>
