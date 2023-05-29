@@ -1,7 +1,7 @@
 selectors: &selectors
   item_selector: //div[@class='stBoxLine01' and not(descendant::div[@class='stAction dyPreloadCacheClear']/descendant::p[@class='stFontSmall stMarginB05'])]
   item_description_selector: span.dyPublisher
-  item_image_selector: div.stImg p.stCover a picture source
+  #item_image_selector: div.stImg p.stCover a picture source
   item_time_selector: .stPrice + li + li
   item_link_selector: div.stInfo div.stContents h2 a
   item_title_selector: div.stInfo div.stContents h2
