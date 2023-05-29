@@ -11,5 +11,5 @@ title: cmoa.jp
 pages:
   - id: "1002214645"
     title: 【電子版】CIEL
-    url: https://honto.jp/ebook/search/au_1002214645.html
+    url: https://honto.jp/ebook/search_0710.html?athid=1002214645
     <<: *selectors
