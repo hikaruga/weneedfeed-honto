@@ -11,5 +11,9 @@ title: cmoa.jp
 pages:
   - id: "1002214645"
     title: 【電子版】CIEL
-    url: https://honto.jp/ebook/search_0710.html?athid=1002214645
+    url: https://honto.jp/ebook/search_09-saledate.html?athid=1002214645
+    <<: *selectors
+   - id: "1000005391"
+    title: ビーボーイゴールド BE BOY GOLD
+    url: https://honto.jp/ebook/search_09-saledate.html?brandcode=1000005391
     <<: *selectors
