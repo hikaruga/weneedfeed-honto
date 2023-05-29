@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: r7kamura/weneedfeed-action@v3
         with:
-          base_url: https://hikaruga.github.io/weneedfeed-cmoa
+          base_url: https://hikaruga.github.io/weneedfeed-honto
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
