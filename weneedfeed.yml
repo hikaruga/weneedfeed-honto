@@ -1,10 +1,10 @@
 selectors: &selectors
-  item_selector: #dy_シリーズ一覧_ajaxUpdate div div.stInfo
-  item_description_selector: div.stContents p
+  item_selector: div div.stInfo
+  #item_description_selector: div.stContents p
   item_image_selector: div.stImg p.stCover a picture img
   item_time_selector:  div.stContents ul li.stRelease
   item_link_selector: div.stContents h3 a
-  item_title_selector: stHeading
+  item_title_selector: div.stContents h3
 
 title: cmoa.jp
 
