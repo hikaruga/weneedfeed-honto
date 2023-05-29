@@ -1,7 +1,7 @@
 selectors: &selectors
   item_selector: .clearfix.title_vol_vox_vols_i
   item_description_selector: .title_vol_text_box_w_intro
-  item_image_selector: _title_detail_thum_min_height
+  item_image_selector: div.thum_box_w.clearfix div img
   item_link_selector: div.title_details_text_section.no_border h3 a
   item_title_selector: .title_details_title_name_h2
 
