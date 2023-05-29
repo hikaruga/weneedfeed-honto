@@ -1,5 +1,5 @@
 selectors: &selectors
-  item_selector: .stBoxLine01
+  item_selector: div div.stInfo
   item_description_selector: span.dyPublisher
   item_image_selector: div.stImg p.stCover a picture source
   item_time_selector: ul.stData li:nth-child(4)
