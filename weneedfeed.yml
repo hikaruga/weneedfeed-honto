@@ -12,3 +12,7 @@ pages:
     title: 【電子版】CIEL
     url: https://www.cmoa.jp/title/109124/
     <<: *selectors
+  - id: "133477"
+    title: ビーボーイゴールド BE BOY GOLD
+    url: https://www.cmoa.jp/title/133477/
+    <<: *selectors
