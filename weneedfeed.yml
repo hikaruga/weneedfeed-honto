@@ -1,19 +1,15 @@
 selectors: &selectors
-  item_selector: .stBoxLine01
-  #item_description_selector: div.stContents ul li:nth-child(4)
-  item_image_selector: div.stImg p.stCover a picture source
-  item_time_selector:  div.stContents ul.stData li:nth-child(4)
-  item_link_selector: div.stInfo div.stContents h2 a
-  item_title_selector: div.stInfo div.stContents h2
+  item_selector: div.stInfo
+  item_description_selector: div.stContents p
+  item_image_selector: div.stImg p.stCover a picture img
+  item_time_selector:  div.stContents ul li.stRelease
+  item_link_selector: div.stContents h3 a
+  item_title_selector: div.stContents h2
 
 title: cmoa.jp
 
 pages:
-  - id: "1002214645"
-    title: 【電子版】CIEL
-    url: https://honto.jp/ebook/search_09-saledate.html?athid=1002214645
-    <<: *selectors
   - id: "1000005391"
-    title: ビーボーイゴールド BE BOY GOLD
-    url: https://honto.jp/ebook/search_09-saledate.html?brandcode=1000005391
+    title: mimosa
+    url: https://honto.jp/ebook/pd-series_C-MBJ-20031-0-332280X.html
     <<: *selectors
