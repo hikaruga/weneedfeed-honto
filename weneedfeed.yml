@@ -1,5 +1,5 @@
 selectors: &selectors
-  item_selector: //div[@class='stBoxLine01']
+  item_selector: //div[@class='stBoxLine01' and not(a[@class='stTriggerC'])]
   item_description_selector: span.dyPublisher
   item_image_selector: div.stImg p.stCover a picture source
   item_time_selector: .stPrice + li + li
