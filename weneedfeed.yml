@@ -15,7 +15,7 @@ pages:
     <<: *selectors
   - id: "1000005391"
     title: ビーボーイゴールド BE BOY GOLD
-    url: https://honto.jp/ebook/search_022_09-saledate.html?prdNm=%E3%83%93%E3%83%BC%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89
+    url: https://honto.jp/ebook/search_022_09-saledate.html?prdNm=ビーボーイゴールド%20202
     <<: *selectors
   - id: "1000009471"
     title: mimosa
@@ -24,4 +24,20 @@ pages:
   - id: "1000000340"
     title: リンクス LYNX
     url: https://honto.jp/ebook/search_022_09-saledate.html?prdNm=%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B9+202
+    <<: *selectors
+  - id: "1000001955"
+    title: G-LISH
+    url: https://honto.jp/ebook/search_022_09-saledate.html?prdNm=G-Lish202
+    <<: *selectors
+  - id: "1000001843"
+    title: ihr HertZ
+    url: https://honto.jp/ebook/search_022_09-saledate.html?prdNm=ihr%20HertZ%20202
+    <<: *selectors
+  - id: "1000005381"
+    title: ガトー GATEAU
+    url: https://honto.jp/ebook/search_022_09-saledate.html?prdNm=gateau%20(%E3%82%AC%E3%83%88%E3%83%BC)%20202
+    <<: *selectors
+  - id: "1000011854"
+    title: BABY
+    url: https://honto.jp/ebook/search_09-saledate.html?brandcode=1000011854
     <<: *selectors
