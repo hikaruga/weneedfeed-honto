@@ -6,13 +6,7 @@
   <body>
     <outline text="cmoa.jp" title="cmoa.jp">
       
-        <outline type="rss" attr="mimosa" title="mimosa" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000009471.xml" htmlUrl="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=mimosa+vol"/>
-      
-        <outline type="rss" attr="【電子版】CIEL" title="【電子版】CIEL" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1002214645.xml" htmlUrl="https://honto.jp/ebook/search_09-saledate.html?athid=1002214645"/>
-      
-        <outline type="rss" attr="ビーボーイゴールド BE BOY GOLD" title="ビーボーイゴールド BE BOY GOLD" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000005391.xml" htmlUrl="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=%E3%83%93%E3%83%BC%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89"/>
-      
-        <outline type="rss" attr="リンクス LYNX" title="リンクス LYNX" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000000340.xml" htmlUrl="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B9+202"/>
+        <outline type="rss" attr="ビーボーイゴールド BE BOY GOLD" title="ビーボーイゴールド BE BOY GOLD" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000005391.xml" htmlUrl="https://honto.jp/ebook/pd-series_C-MBJ-28252-9-243049X.html"/>
       
     </outline>
   </body>
