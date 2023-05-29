@@ -6,11 +6,19 @@
   <body>
     <outline text="honto.jp" title="honto.jp">
       
+        <outline type="rss" attr="BABY" title="BABY" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000011854.xml" htmlUrl="https://honto.jp/ebook/search_09-saledate.html?brandcode=1000011854"/>
+      
+        <outline type="rss" attr="G-LISH" title="G-LISH" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000001955.xml" htmlUrl="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=G-Lish202"/>
+      
+        <outline type="rss" attr="ihr HertZ" title="ihr HertZ" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000001843.xml" htmlUrl="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=ihr%20HertZ%20202"/>
+      
         <outline type="rss" attr="mimosa" title="mimosa" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000009471.xml" htmlUrl="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=mimosa+vol"/>
       
         <outline type="rss" attr="【電子版】CIEL" title="【電子版】CIEL" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1002214645.xml" htmlUrl="https://honto.jp/ebook/search_09-saledate.html?athid=1002214645"/>
       
-        <outline type="rss" attr="ビーボーイゴールド BE BOY GOLD" title="ビーボーイゴールド BE BOY GOLD" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000005391.xml" htmlUrl="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=%E3%83%93%E3%83%BC%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89"/>
+        <outline type="rss" attr="ガトー GATEAU" title="ガトー GATEAU" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000005381.xml" htmlUrl="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=gateau%20(%E3%82%AC%E3%83%88%E3%83%BC)%20202"/>
+      
+        <outline type="rss" attr="ビーボーイゴールド BE BOY GOLD" title="ビーボーイゴールド BE BOY GOLD" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000005391.xml" htmlUrl="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=%E3%83%93%E3%83%BC%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%20202"/>
       
         <outline type="rss" attr="リンクス LYNX" title="リンクス LYNX" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000000340.xml" htmlUrl="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B9+202"/>
       
