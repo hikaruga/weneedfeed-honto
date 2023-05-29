@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[CRAFT]]></title>
+    <link>https://honto.jp/ebook/search_022_09-saledate.html?prdNm=CRAFT%2Bvol%2B%E3%80%90%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%80%91</link>
+    <atom:link href="https://hikaruga.github.io/weneedfeed-honto/feeds/1000001843_CRAFT.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Mon, 29 May 2023 17:23:07 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+CRAFT vol.103【期間限定】
+新着]]></title>
+      <link>https://honto.jp/ebook/pd_32472695.html</link>
+      
+        <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[大洋図書]]></description>
+      <content:encoded><![CDATA[大洋図書]]></content:encoded>
+      <guid isPermaLink="true">https://honto.jp/ebook/pd_32472695.html</guid>
+      
+        <enclosure url="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=CRAFT%2Bvol%2B%E3%80%90%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%80%91" length="0" type=""/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+CRAFT vol.102【期間限定】
+]]></title>
+      <link>https://honto.jp/ebook/pd_32334255.html</link>
+      
+        <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[大洋図書]]></description>
+      <content:encoded><![CDATA[大洋図書]]></content:encoded>
+      <guid isPermaLink="true">https://honto.jp/ebook/pd_32334255.html</guid>
+      
+        <enclosure url="https://honto.jp/ebook/search_022_09-saledate.html?prdNm=CRAFT%2Bvol%2B%E3%80%90%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%80%91" length="0" type=""/>
+      
+    </item>
+    
+  </channel>
+</rss>
