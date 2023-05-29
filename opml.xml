@@ -6,9 +6,7 @@
   <body>
     <outline text="cmoa.jp" title="cmoa.jp">
       
-        <outline type="rss" attr="【電子版】CIEL" title="【電子版】CIEL" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1002214645.xml" htmlUrl="https://honto.jp/ebook/search_09-saledate.html?athid=1002214645"/>
-      
-        <outline type="rss" attr="ビーボーイゴールド BE BOY GOLD" title="ビーボーイゴールド BE BOY GOLD" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000005391.xml" htmlUrl="https://honto.jp/ebook/search_09-saledate.html?brandcode=1000005391"/>
+        <outline type="rss" attr="mimosa" title="mimosa" xmlUrl="https://hikaruga.github.io/weneedfeed-honto/feeds/1000005391.xml" htmlUrl="https://honto.jp/ebook/pd-series_C-MBJ-20031-0-332280X.html"/>
       
     </outline>
   </body>
