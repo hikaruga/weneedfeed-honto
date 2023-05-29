@@ -7,7 +7,21 @@
     <link>https://honto.jp/ebook/search_09-saledate.html?athid=1002214645</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-honto/feeds/1002214645.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 29 May 2023 13:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2023 13:45:44 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+【電子版】ＣＩＥＬ 2022年11月号
+]]></title>
+      <link>https://honto.jp/ebook/pd_32006376.html</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://honto.jp/ebook/pd_32006376.html</guid>
+      
+        <enclosure url="https://honto.jp/ebook/search_09-saledate.html?athid=1002214645" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -15,8 +29,10 @@
 ]]></title>
       <link>https://honto.jp/ebook/pd_32406885.html</link>
       
-      <description><![CDATA[販売開始日：2023/03/30]]></description>
-      <content:encoded><![CDATA[販売開始日：2023/03/30]]></content:encoded>
+        <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://honto.jp/ebook/pd_32406885.html</guid>
       
         <enclosure url="https://honto.jp/ebook/search_09-saledate.html?athid=1002214645" length="0" type=""/>
@@ -29,8 +45,10 @@
 ]]></title>
       <link>https://honto.jp/ebook/pd_32279280.html</link>
       
-      <description><![CDATA[販売開始日：2023/01/30]]></description>
-      <content:encoded><![CDATA[販売開始日：2023/01/30]]></content:encoded>
+        <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://honto.jp/ebook/pd_32279280.html</guid>
       
         <enclosure url="https://honto.jp/ebook/search_09-saledate.html?athid=1002214645" length="0" type=""/>
@@ -43,23 +61,11 @@
 ]]></title>
       <link>https://honto.jp/ebook/pd_32140290.html</link>
       
-      <description><![CDATA[販売開始日：2022/11/30]]></description>
-      <content:encoded><![CDATA[販売開始日：2022/11/30]]></content:encoded>
+        <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://honto.jp/ebook/pd_32140290.html</guid>
-      
-        <enclosure url="https://honto.jp/ebook/search_09-saledate.html?athid=1002214645" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-【電子版】ＣＩＥＬ 2022年11月号
-]]></title>
-      <link>https://honto.jp/ebook/pd_32006376.html</link>
-      
-      <description><![CDATA[出版社：<a href="https://honto.jp/ebook/search/pb_1000019475.html" class="dyPublisherLink"><span class="dyPublisher">KADOKAWA</span></a>]]></description>
-      <content:encoded><![CDATA[出版社：<a href="https://honto.jp/ebook/search/pb_1000019475.html" class="dyPublisherLink"><span class="dyPublisher">KADOKAWA</span></a>]]></content:encoded>
-      <guid isPermaLink="true">https://honto.jp/ebook/pd_32006376.html</guid>
       
         <enclosure url="https://honto.jp/ebook/search_09-saledate.html?athid=1002214645" length="0" type=""/>
       
@@ -71,8 +77,10 @@
 ]]></title>
       <link>https://honto.jp/ebook/pd_31874428.html</link>
       
-      <description><![CDATA[販売開始日：2022/07/30]]></description>
-      <content:encoded><![CDATA[販売開始日：2022/07/30]]></content:encoded>
+        <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://honto.jp/ebook/pd_31874428.html</guid>
       
         <enclosure url="https://honto.jp/ebook/search_09-saledate.html?athid=1002214645" length="0" type=""/>
