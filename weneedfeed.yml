@@ -10,5 +10,5 @@ title: cmoa.jp
 pages:
   - id: "109124"
     title: 【電子版】CIEL
-    url: https://www.cmoa.jp/title/109124/?page=1&order=down&disp_mode=comp#buyarea
+    url: https://www.cmoa.jp/title/109124/
     <<: *selectors
