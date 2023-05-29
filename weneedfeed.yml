@@ -1,5 +1,5 @@
 selectors: &selectors
-  item_selector: //div[contains(concat(' ', normalize-space(@class), ' '), ' stProduct02 ') and contains(concat(' ', normalize-space(@class), ' '), ' stEb ')]
+  item_selector: //div[contains(@class, "stProduct02")]
   item_description_selector: //*[@id="dy_シリーズ一覧_ajaxUpdate"]/div/div/div[2]/p
   item_image_selector: //*[@id="dy_シリーズ一覧_ajaxUpdate"]/div/div[2]/div[1]/p[2]/a/picture/img
   item_time_selector: //*[@id="dy_シリーズ一覧_ajaxUpdate"]/div/div[2]/div[2]/ul/li[3]
